@@ -4,5 +4,6 @@ Sou estudante de engenharia de Software no Centro Universiário de Brasília (CE
 
 ### Contato:
 rafael.cbarros@sempreceub.com
-[!LinkedIn](https://shields.io)](https://www.linkedin.com/in/rafael-cardoso-de-barros-0346b740a/)
+
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/rafael-cardoso-de-barros-0346b740a/?isSelfProfile=false)
 
