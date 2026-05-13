@@ -1,6 +1,6 @@
 # Olá, me chamo Rafael.
 
-Sou estudante de _Engenharia de Software_ no **Centro Universiário de Brasília** (CEUB) e estou estudando linguagens como C++ e Python na intenção de me tornar um programador e desenvolver aplicações para desktop. 
+Sou estudante de _Engenharia de Software_ no **Centro Universiário de Brasília (CEUB)** e estou estudando linguagens como _C++_ e _Python_ na intenção de me tornar um programador e desenvolver aplicações para desktop. 
 
 ## Contato:
 rafael.cbarros@sempreceub.com
