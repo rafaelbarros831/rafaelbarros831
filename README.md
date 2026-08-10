@@ -8,9 +8,3 @@ Sou estudante de _Engenharia de Software_ no **Centro Universiário de Brasília
 rafael.cbarros@sempreceub.com
 
 <a href="https://www.linkedin.com/in/rafael-cardoso-de-barros-0346b740a/?isSelfProfile=false" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-## Estatísticas:
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelbarros831&theme=radial" alt="GitHub Streak" />
-</p>
